@@ -1,268 +1,340 @@
-﻿1
+1
 00:00:24,000 --> 00:00:25,900
 Unjust laws exist;
+அநியாயமான சட்டங்கள் இருக்கும் பட்சத்தில்
 
-2
-00:00:26,000 --> 00:00:28,600
+2.00:00:26,000 --> 00:00:28,600
 shall we be content to obey them,
+இவைகளுக்குக் கட்டுப்பட்டு நாம் நடப்பதா ?
 
 3
 00:00:28,700 --> 00:00:33,600
 or shall we endeavor to amend them,
 and obey them until we have succeeded,
+இல்லையனில் இவைகளை திருத்த முற்பட்டு 
+அது வெற்றி பெறும் வரை இவைக்கு கட்டுபடுவதா ?
 
 4
 00:00:33,700 --> 00:00:37,600
 or shall we transgress them at once?
+இல்லையனில் தற்பொழுதே இச்சட்டத்தை மீறுவதா?
 
 5
 00:00:37,700 --> 00:00:40,000
 Henry David Thoreau
+ஹென்றி டேவிட் தோரியோவ்(Henry David Thoreau)
 
 6
 00:00:50,222 --> 00:00:55,000
 The co-founder of the social news and entertainment website "reddit" has been found dead
+சமூக மற்றும் பொழுதுபோக்கு வலைத்தளமான "ரெட்டிட்"-இன் இணை-நிறுவுனர் இறந்த நிலையில் கண்டுட்பிடிக்கப்பட்டார்.
 
 7
 00:00:57,537 --> 00:01:01,542
 He surely was a prodigy althought he never kind of thought of himself like that
+தன்னை மேதையென்று உணராவிடிலும் நிச்சியமாக இந்த வாலிபன் ஒரு மேதை தான் 
 
 8
 00:01:01,611 --> 00:01:08,000
 He was totally unexcited about studing businesses and making money
+தனது திறமையை வியாபாரத்தில் பயன்படுத்தி பொருள் ஈட்ட இவர் விரும்பவில்லை 
 
 9
 00:01:09,941 --> 00:01:14,800
 There's a profound sense of loss tonight in Highland Park Aaron Swartz's hometown
+இணையத்தின் மிகப் பிரகாசமான ஒளியாய் திகழ்ந்த ஆரோன் ஸ்வார்ட்ஸின்(Aaron Swartz) 
+அன்புக்குரியவர்கள் பிரியாவிடை தர,
 
 10
 00:01:14,909 --> 00:01:18,800
 as loved ones say goodbye to one of the Internet's brightest lights
+அவரது சொந்த ஊரான ஹைலாந்து பார்க் (Highland Park) சோகத்தில் முழுகியது 
 
 11
 00:01:19,000 --> 00:01:22,247
 ...Open Access and computer activits are mourning his loss
+...திறந்த தகவல் உரிமை மற்றும் கணினி ஆர்வலர்கள் 
+அவரது இறப்பினால் சோகத்தில் உள்ளனர்
 
 12
 00:01:22,280 --> 00:01:25,163
 ...an astonishing intellect. You talk to people who knew him
+இவரை அறிந்தவர்களைக் கேட்டுப்பாருங்கள்...
+இவர் வியக்கத்தக்க மேதை
 
 13
 00:01:25,214 --> 00:01:29,500
 ...he was killed by the government and MIT betrayed all of its basic principles
+...எம்.ஐ.டி (MIT) தனது அடிப்படைக் கொள்கைக்கு துரோஹம் இழைத்து விட்டது, அரசாங்கம் இவரை கொன்றுவிட்டது 
 
 14
 00:01:29,600 --> 00:01:34,283
 ...they wanted to make an example out of it, ok?
+அரசாங்கம் இதனை ஒரு உதாரணமாக காட்ட விரும்பியது
 
 15
 00:01:34,865 --> 00:01:39,000
 Governments have an insatiable desire to control
+பொதுவாக அரசாங்கத்திற்கு பிறரை கட்டுபடுத்த வெறித்தனமான ஆசை உண்டு 
 
 16
 00:01:39,100 --> 00:01:43,360
 ...he was potentially facing 35 years in prison and 1 million dollars fine
+...இவருக்கு 35 வருட சிறை தண்டனையும், ஒரு மில்லியன் டாலர் அபராதமும் விதிக்க பட வாய்ப்பு இருந்தது 
 
 17
 00:01:43,410 --> 00:01:49,076
 Raising questions of prosecutorial zeal and I would say even miscondut.
+இந்த வழக்கு விசாரணைகளின் போக்கு தவறான நடவடிக்கை என்று நான் கருதுவேன் 
 
 18
 00:01:49,141 --> 00:01:54,600
 Have you looked into that particular matter and reached any conclusions?
+இந்த  குறிப்பிட்ட விஷயத்தில் உன் கருத்து என்ன ?
 
 19
 00:01:57,700 --> 00:02:00,600
 Growing up, you know, I slowly had this process of realising
+எல்லாமே இப்படி தான் இருக்கும்
 
 20
 00:02:00,683 --> 00:02:02,807
 that all the things around me, that people had told me
+இவற்றை மாற்ற முடியாது 
 
 21
 00:02:02,850 --> 00:02:06,189
 were just the natural way things were, the way things always would be.
+என்ற மக்களின் கருத்தை,
 
 22
 00:02:06,225 --> 00:02:08,545
 They weren't natural at all. They were things that could be changed
+நான் வளர வளர என்னால் ஏற்றுகொள்ளமுடியவில்லை. இவைகளை  மாற்ற முடியும்,
 
 23
 00:02:08,589 --> 00:02:11,687
 and they were thing that more importantly were wrong and should change.
+இவை தவறானவை, இவற்றை மாற்றியே ஆகவேண்டும் என உணர்ந்தேன் 
 
 24
 00:02:11,738 --> 00:02:14,516
 And once I realised that, there was really kind of no going back
+இதை உணர்ந்தபின், நான் பின்வாங்கபோவதில்லை 
 
 25
 00:02:15,000 --> 00:02:19,000
 The Internet's Own Boy
+இணையத்தின் சொந்தக் குழந்தை
 
 26
 00:02:24,101 --> 00:02:27,134
 Welcome to story reading time
+வாருங்கள்,கதை வாசிப்போம்
 
 27
 00:02:27,992 --> 00:02:32,000
 The name of the book is 'Paddington at the fair'
+புத்தகத்தின் பேர் "பேடிங்க்டன் விழா"
 
 28
 00:02:32,952 --> 00:02:36,500
 Well, he was born in Highland Park and grew up here
+ஆரோன் ஹைலாந்து பார்க்கில் 
 
 29
 00:02:36,552 --> 00:02:40,000
 Aaron came from a family of three brothers all extraordinarly bright
+மூன்று புத்திசாலியான சகோதரர்களில் ஒருவனாக பிறந்து வளர்ந்தான் 
 
 30
 00:02:40,100 --> 00:02:42,370
 The box is flipping over!
+டப்பா சரிகிறது !!!
 
 31
 00:02:44,574 --> 00:02:47,767
 So, we were all, you know, not the best behaved children
+நாங்கள் எல்லோருமே சமர்த்தான குழந்தைகள் அல்ல
 
 32
 00:02:47,810 --> 00:02:51,100
 you know, three boys running around all the time, causing trouble
+சுட்டித்தனமாக எல்லா இடத்திலும்  ஓடி, தொல்லை கொடுத்து கொண்டிருந்தோம் 
 
 33
 00:02:51,600 --> 00:02:55,100
 Mom: No, no, no... Aaron!?
 Aaron: What?
+அம்மா:ஆரோன், ஆரோன்.. நில் 
+ஆரோன்:என்ன ?
 
 34
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
+ஆரோன் மிக சிறு வயதிலேயே எப்படி கற்றுகொள்ளவேண்டும் 
+என்பதை  கற்றுக்கொண்டுவிட்டான் என உணர்ந்துகொண்டேன் 
 
 35
 00:03:06,500 --> 00:03:07,700
 Toc, toc!?
+டக் டக் !?
 
 36
 00:03:07,800 --> 00:03:08,800
 Who's here?
+யார் இங்கே?
 
 37
 00:03:08,900 --> 00:03:09,800
 Aaron!
+ஆரோன்!
 
 38
 00:03:09,900 --> 00:03:10,836
 Aaron who?
+எந்த ஆரோன்
 
 39
 00:03:10,887 --> 00:03:12,500
 Aaron funny man
+ஆரோன்.. கோமாளி
 
 40
 00:03:12,640 --> 00:03:14,858
 He knew what he wanted, he always wanted to do it.
+என்ன வேண்டும் என்பதை நன்கு அறிந்து அதை செய்வதிலேயே குறியாக இருந்தான் 
 
 41
 00:03:14,872 --> 00:03:16,850
 He always accomplished what he wanted.
+தனக்கு வேண்டியதெல்லாம் சாதித்து கொண்டான் 
 
 42
 00:03:18,320 --> 00:03:20,800
 His curiosity was endless
+முடிவில்லாத ஆர்வம் கொண்டவன் 
 
 43
 00:03:21,156 --> 00:03:25,500
 Here's the little picture of a [?] [?]
+இதோ இங்கே ஒரு படம்... 
 
 44
 00:03:33,000 --> 00:03:34,494
 One day he said to Susan:
+ஒரு நாள் அவன் சூசன்(Susan) இடம்  சொன்னான் : 
 
 45
 00:03:34,523 --> 00:03:37,240
-"Let's do three family entertainment[?] downtown in the park"
+"Let's go to free family entertainment downtown in the park"
+நாம் நகர்ப் பூங்காவில் இலவச குடும்பப் பொழுதுபோக்கு விழவுக்குப் போகலாம் 
 
 46
 00:03:37,381 --> 00:03:40,000
-Three family entertainment[?] downtown in the park
+Free family entertainment downtown in the park
+நகர் பூங்காவில் இலவச குடும்பப பொழுதுபோக்கு விழ உள்ளது
 
 47
 00:03:40,500 --> 00:03:42,000
 He was three at the time
+அப்போது அவனுக்கு வயது மூன்று 
 
 48
 00:03:42,500 --> 00:03:44,200
 She said: "What are you talking about?"
+அவள் கேட்டாள் " என்ன சொல்கிறாய் "?
 
 49
 00:03:44,300 --> 00:03:47,000
 He said: "Look it says here on on the refrigerator"
+அவன் சொன்னான்  "இங்கே பார்: குளிர்சாதனப்  பெட்டியில் எழுதி இருக்கிறது "
 
 50
 00:03:47,054 --> 00:03:49,178
-"Three family entertainment[?] downtown in the park"
+Free family entertainment downtown in the park
+நகர் பூங்காவில் இலவச குடும்பப பொழுதுபோக்கு விழ உள்ளது
 
 51
 00:03:49,200 --> 00:03:54,800
-She was flurred and astonished that he could read
+She was floored and astonished that he could read
+அவனது வாசிக்கும் தன்மையை கண்டு அவள் வியந்து போனால்
 
 52
 00:03:55,010 --> 00:03:59,512
 It's called: "My family seder"
+இதன் பெயர் : "என் குடும்பக் கதை (My family seder)"
 
 53
 00:04:00,094 --> 00:04:04,800
 The seder night is different from all other nights
+இந்த பண்டிகை இரவு மற்ற இரவுகளை விட வித்தியாசமானது
 
 54
 00:04:04,858 --> 00:04:08,472
-I remember once we were are the University of Chicago library
+I remember once we were at the University of Chicago library
+ஒரு முறை சிக்காகோ பல்கலைக்கழக நூலகத்தில் 
 
 55
 00:04:08,800 --> 00:04:12,320
 I pulled a book off the shelf that was like from 1900
+அலமாரியில் இருந்து நூறாண்டு கடந்த பழைய புத்தகத்தை எடுத்து 
 
 56
 00:04:12,589 --> 00:04:16,050
 and showed to him, I said: "You know this is [?] an extraordinary place"
+அவனிடம்  காட்டி "இது ஒரு நல்ல வித்தியாசமான நூலகம் ", என்று சொன்னேன் 
 
 57
 00:04:16,100 --> 00:04:22,152
 We all were curious children but Aaron really liked learning and really liked teaching
+நாம் மூவருமே ஆர்வமுள்ள பிள்ளைகள் தான் ஆனால் ஆரோனுக்குக் 
+கற்பதும் கற்பிப்பதும் மிக பிடித்தமானவை 
 
 58
 00:04:22,225 --> 00:04:30,000
 Today we're going to read the ABC backwards z, y, x, w, ...
+இன்று நாம் ABC ஐ  பின்னோக்கி படிப்போம் 
 
 59
 00:04:31,752 --> 00:04:35,032
 I remember he came home from his first algebra class
+தனது முதல் இயற்கணித வகுப்பிலிருந்து வீடு திரும்பிய ஆரோன் 
 
 60
 00:04:35,090 --> 00:04:38,000
 he was like: "Noah, let me teach you algebra!"
+"நோவா, நான் உனக்கு இயற்கணிதம்(algebra) சொல்லிகொடுகிறேன் "
 
 61
 00:04:38,625 --> 00:04:40,363
 and I'm like: "What is algebra?"
+நான் கேட்டேன் "இயற்கணிதம் என்றால் என்ன?"
 
 62
 00:04:40,785 --> 00:04:42,305
 and he was always like that
+ஆரோன் எப்போதும் இப்படிதான் 
 
 63
 00:04:42,800 --> 00:04:45,810
 Now I press button, click button
+நான் இப்போ பொத்தானை அமுக்குகிறேன் 
 
 64
 00:04:46,600 --> 00:04:50,500
 there, now he's got that[?], now it's a pink
+ஆஹ் வந்துவிட்டது! இது பிங்க்
 
 65
 00:04:52,109 --> 00:04:56,000
-When he was at 2 or 3 three years old an Bob introduced him to computers
+When he was at 2 or 3 three years old and Bob introduced him to computers
+2-3 வயதான ஆரோனுக்கு பாப்(Bob) கணினியை அறிமுகம் செய்தார்
 
 66
 00:04:56,058 --> 00:04:58,647
 then he just took off like crazy on them
+அதில் தீவிர ஈடுபாடு கொண்டான் ஆரோன்
 
 67
 00:04:59,178 --> 00:05:02,712
@@ -270,64 +342,80 @@ then he just took off like crazy on them
 
 68
 00:05:03,243 --> 00:05:08,247
-We all had computers, but Aaron really talked to them, really talked to the Internet
+We all had computers, but Aaron really took to them, really took to the Internet
+எங்கள் மூவருக்கும் கணினி இருந்தாலும் ஆரோன் அதனுடன் ஒன்றி விட்டான் 
 
 69
 00:05:09,207 --> 00:05:10,500
 Looking at the computer?
+கணினியில் என்ன செய்கிறாய்?
 
 70
 00:05:10,545 --> 00:05:12,900
-No, how [?]
+No, how come, Mommy, how come nothing is working
+இல்ல அம்மா ... ஏன் ? ஏன் ஒண்ணும் வரலை?
 
 71
 00:05:15,854 --> 00:05:18,101
 He started programming from a really young age.
+சின்னஞ்சிறு வயதிலேயே கணினி செய்நிரல்(program) எழுத  ஆரம்பித்துவிட்டான் 
 
 72
 00:05:18,152 --> 00:05:21,585
 I remember the first program that I wrote with him was in basic
+நாங்கள் இருவரும் எழுதிய முதல் பேசிக்(Basic) செய்நிரல்
 
 73
 00:05:21,781 --> 00:05:24,334
 and  was a Star Wars trivia game
+ஒரு எளிய "ஸ்டார் வார்ஸ் (Star Wars)" விளையாட்டு
 
 74
 00:05:25,883 --> 00:05:29,500
-He sat down with me in the basement were the computer was
+He sat down with me in the basement where the computer was
+கணினி வைக்கபட்டிருந்த அடிதளத்தில் என்னோடு அமர்ந்து 
 
 75
 00:05:29,600 --> 00:05:32,500
 for hours programming this game
+மணிக்கணக்காக இந்த விளையாட்டை செய்நிரல் எழுதுவான்
 
 76
 00:05:34,880 --> 00:05:38,196
 The problem that I kept having with him is that
 there was nothing that I wanted done
+எங்கள் இருவருக்கும் உள்ள வித்தியாசம்  என்னவென்றால், எனக்கு எதையும் மென்மேலும் செய்ய தோன்றவில்லை
 
 77
 00:05:38,247 --> 00:05:41,563
 and to him there was always something to do
+ஆனால் அவனுக்கோ எதையுமே மேலும் நன்றாக செய்ய ,
 
 78
 00:05:41,600 --> 00:05:44,181
 always something that programming could solve
+அனைத்தையும் செய்நிரல் முலம் தீர்வு காண   துடிப்பு இருந்தது 
 
 79
 00:05:47,185 --> 00:05:50,603
 The way that Aaron always thought is that programming is magic
+செய்நிரல் என்ற வலிமையான மாயஜால கருவி கொண்டு
 
 80
 00:05:50,843 --> 00:05:53,963
 you can accomplish this things that normal humans can't
+ஒரு சாதாரண மனிதனால் செய்யமுடியாதவற்றை சாதிக்கலாம் என ஆரோன் நம்பினான் 
 
 81
 00:05:54,029 --> 00:05:57,941
 Aaron made an ATM using like a Macintosh and like a cardboard box
+(Not sure of the translation for this line)
+ஒரு அட்டைப்பெட்டியின் உதவி கொண்டு மேக்கிண்டாஷ்(Macintosh) கணினியை ஏ டி எம் (ATM) மாக மாற்றினான்
 
 82
 00:05:58,000 --> 00:06:01,700
 One year for Halloween I didn't know what I wanted to be
+ஒரு முறை  ஆலோவீனுக்கு நான் என்ன வேடம் போடலாம் என்று தடுமாறியபோது
 
 83
 00:06:01,800 --> 00:06:04,600
@@ -336,415 +424,520 @@ and he thought would be really really cool if I dressed up
 84
 00:06:04,700 --> 00:06:08,800
 like his new favourite computer which at the time was the original iMac
+நான் அவனது புது அபிமான ஐ-மேக் (iMac) கணினியாக
+வேடம் போட்டால் மிக சிறப்பாக இருக்கும் என கருதினான் 
 
 85
 00:06:09,025 --> 00:06:11,150
 and he hated dressing up for Hallowen
+தான் தனக்கு வேடம் போட விரும்பாத அவன்
 
 86
 00:06:11,160 --> 00:06:14,340
 but he loved convincing other people to dress like other things he wanted to see
+பிறருக்கு தான் விரும்பிய வேடங்களை போட்டு ரசிக்க விரும்பினான் 
 
 87
 00:06:17,900 --> 00:06:20,200
 [?]
 Guys, come on, look at the camera
+[?]
+பசங்களா... ஒளிப்படக்கருவியைப் பாருங்க...
 
 88
 00:06:24,130 --> 00:06:28,174
 He made this website called "The Info"
+"தி இன்போ (The Info)" என்ற இணையதளத்தில் 
 
 89
 00:06:28,247 --> 00:06:30,560
 where people could just fill in information
+மக்கள் தாமறிந்த தகவல்களை பகிர்ந்துகொள்ள உறவாகினான் 
 
 90
 00:06:31,716 --> 00:06:34,734
-Like, I'm sure someone out there knows all about gold, gold leafing[?].
+Where people can just fill in information, like golf, [?]
+அங்கு மக்கள் தங்களுக்குத் தெரிந்த தகவல்களைப் எழுதலாம். எடுத்துக்காட்டாக கோல்ப், [?]
 
 91
 00:06:34,785 --> 00:06:36,661
-Why aren't they writing about that on this website?
+One of them write about that in this website
+யாரவது ஒருவர் இந்த வலைத்தளத்தில் அதை எழுத 
 
 92
 00:06:36,734 --> 00:06:39,912
 And then other people can come at a later point and read that information
+பிறகு எவரும் இத்தளத்தின் முலம் இத்தகவல்களை வாசிக்கலாம் 
 
 93
 00:06:39,949 --> 00:06:43,301
 and edit the information if they thought that it was bad
+தவறான தகவல் என நினைத்தால் அவற்றை மாற்றி எழுதலாம் 
 
 94
 00:06:43,650 --> 00:06:46,000
 Not too dissimilar from Wikipedia, all right?
+விக்கிபீடியாவில்  இருந்து அதிக மாற்றம் இல்லை, இல்லையா?
 
 95
 00:06:46,138 --> 00:06:49,500
 This is before Wikipedia begun
+இது விக்கிபீடியா வருவதற்கு முன்பு -
 
 96
 00:06:49,687 --> 00:06:51,985
 and this is developed by a 12 year old
+ஒரு 12 வயதான சிறுவன் 
 
 97
 00:06:52,021 --> 00:06:54,600
 in his room, by himself
+தானாகவே தனது அறையில் 
 
 98
 00:06:54,683 --> 00:06:58,574
 running on this tiny server using ancient technology
+ஒரு சின்ன சர்வரை உபயோகித்து மிக பழைய  
+தொழில்நுட்பம் கொண்டு செய்தது !
 
 99
 00:06:58,625 --> 00:07:00,800
-One of the teacher's response like:
+One of the teacher's responds like:
+ஒரு ஆசிரியரின் கருத்து :
 
 100
 00:07:01,541 --> 00:07:04,712
 "This is a terrible idea, you can't just let anyone
+இது ஒரு மோசமான யோசனை, நீ யாரை வேண்டுமானாலும் 
 
 101
 00:07:04,756 --> 00:07:07,090
 author the dictionary, like author the encyclopedia"
+ஒரு அகராதியையோ, அல்லது கலைக்கழஞ்சியத்தையோ எழுத அனுமதிக்க முடியாது!
 
 102
 00:07:07,149 --> 00:07:10,269
 "For a whole reason we have scholars to write these book for us"
+இவற்றை எழுத அறிங்கர்கள் இருப்பதற்குக் காரணம் உண்டு.
 
 103
 00:07:10,300 --> 00:07:12,414
 "How did you ever had such a terrible idea"
+எப்படி உனக்கு இதுபோன்ற மோசமான யோசனை வந்தது?
 
 104
 00:07:12,596 --> 00:07:14,800
 Me and my other brother would be like: "Yeah, you know"
+நானும் என் சகோதரனும் நினைப்போம், "ஆமாம்..."
 
 105
 00:07:14,850 --> 00:07:19,800
 "Wikipedia is cool but we had that in our house, like 5 years ago"
+"விக்கிப்பீடியா நன்றாக உள்ளது. ஆனால் எங்கள் வீட்டில் அது 5 வருடங்கள் முன்பே உண்டே!"
 
 106
 00:07:21,490 --> 00:07:25,770
 Aaron's website "The Info.org" wins a school competition
+ஆரோனின் "தி இன்போ.ஆர்க் (The Info.org)" இணையதளம்
 
 107
 00:07:25,800 --> 00:07:30,000
 hosted by the Cambridge based web design firm ArsDigita
+கேம்ப்ரிட்ஜில் உள்ள ஆர்ஸ் டிஜிட்டா  நிறுவனம் நடத்திய பள்ளி போட்டியில் முதன்மையாக வந்தது 
 
 108
 00:07:34,240 --> 00:07:37,738
 We all went to Cambridge when he won the ArsDigita Prize
+இவ்  விழாவிற்கு நாங்கள் எல்லோரும் கேம்ப்ரிட்ஜ் சென்றோம் 
 
 109
 00:07:37,774 --> 00:07:39,687
 and, you know, we had no clue of what Aaron was doing
+முக்கியமான இந்த பரிசை அறிவிக்கும் வரையில் 
 
 110
 00:07:39,803 --> 00:07:43,156
-it was obvious that the pirze was really important
+it was obvious that the prize was really important
+ஆரோன் என்ன செய்கிறான் என்பது எங்களுக்கு தெரியாமல் இருந்துது 
 
 111
 00:07:44,261 --> 00:07:47,700
 Aaron soon became involved with on-line programming communities
+இணையதளத்தின் வளர்சிக்காக புது முறைகளை அமலாக்க முயன்ற 
 
 112
 00:07:47,752 --> 00:07:50,894
-than in the process of shaping a new tool for the Web
+then in the process of shaping a new tool for the Web
+இணையத்தில் செய்நிரல் செய்பவர்களின் கழகத்தில் ஆரோனுக்கு ஈடுபாடு உண்டாகியது
 
 113
 00:07:51,460 --> 00:07:55,723
 He concept is like[?]: "Ben, there's a really awesome thing that I'm working on"
+"பென்(Ben), ஒரு மகத்தான முயற்சியில் நான் ஈடுபட்டுளேன் "
 
 114
 00:07:55,767 --> 00:07:57,700
 "you need to hear about it"
+"இதை பற்றி நீ தெரிந்து கொள்ள வேண்டும்"
 
 115
 00:07:57,760 --> 00:07:58,800
 I'm like: "Yeah, what is it?"
+நான் கேட்டேன் "என்ன அது ?"
 
 116
 00:07:58,865 --> 00:08:01,010
-He says: "Is this thing called RSS"
+He says: "It's this thing called RSS"
+"இதற்கு ஆர் எஸ் எஸ்(RSS) என்று பெயர் "
 
 117
 00:08:02,510 --> 00:08:04,007
-And he explains me what RSS is
+And he explains to me what RSS is
+என்று கூறி அதை பற்றி விவரித்தான் 
 
 118
 00:08:04,021 --> 00:08:11,500
 and I like: "Why is that useful? Aaron, is a site using it? Why would I want to use it?"
+நான் கேட்டேன் 
+"இதனால் என்ன பயன்? ஏதாவது இணையத்தளம் இதை உபயோகிகின்றதா?"
 
 119
 00:08:11,672 --> 00:08:15,127
 There was this mailing list for people who were working on RSS
+ ஆர் எஸ் எஸ்,எக்ஸ் எம் எல்(XML) கழகதினற்கு ஒருவருடன் ஒருவர் தொடர்புகொள்ள ஒரு தனி பட்டியல் உண்டு 
 
 120
 00:08:15,160 --> 00:08:19,374
 and XML more generally and there was a person on it named Aaron Swartz
+இதில் ஆரோன் ஸ்வார்ட்ஸ்-
 
 121
 00:08:19,400 --> 00:08:23,600
 who was combatitive but very smart and who had lots of good ideas
+சிறந்த கருத்துகள் கொண்ட திறமையான, உறுதியான இவர் பெயரும் இருந்தது 
 
 122
 00:08:23,700 --> 00:08:28,330
 and he did never come to the face to face meetings and they said:
+ஆனால் இவர் ஒரு நேர்முக விவாகத்திலும் கலந்துகொள்வதில்லை 
 
 123
 00:08:28,349 --> 00:08:32,021
 "You know, when are you gonna come to one of those face to face meetings?"
+"எப்போது நேருக்கு நேர் சந்திப்போம் ? "என்று உறுப்பினர்கள் கேட்டபோது 
 
 124
 00:08:32,094 --> 00:08:37,300
 He said: "You know, I don't think my mom would let me, you know I just turned 14"
+"14 வயதாகிய என்னை என் அம்மா அனுப்புவார் என்று எனக்கு தோன்றவில்லை " என்று  ஆரோன் ஸ்வார்ட்ஸ் பதில் அளித்தான் 
 
 125
 00:08:37,400 --> 00:08:39,636
 So the first reaction was, well you know,
+இதைக் கேட்டவுடன் 
 
 126
 00:08:39,665 --> 00:08:42,501
 this person this colleague we've been working with all year
+"இவளவு நாட்கள் நம்மோடு வேலை செய்தவர்
 
 127
 00:08:42,552 --> 00:08:46,589
 was 13 years old when we were working with him and is only 14 now
+ஒரு 14 வயது சிறுவனா?" என்று திகைத்த நபர்கள் 
 
 128
 00:08:46,683 --> 00:08:49,425
 and their second reaction was: "Christ, we really want to meet him!"
+"நாங்கள் அவனை பார்க்க மிக ஆவலாக இருக்கிறோம் "
 
 129
 00:08:49,469 --> 00:08:50,800
 "You know that's extraordinary"
+"இது ஒரு வியப்பான விஷயம் "
 
 130
 00:08:50,930 --> 00:08:53,432
 Was part of the community that drafted RSS
+இந்தக் குழுவே ஆர் எஸ் எஸ்-ஐ உருவாக்கியது
 
 131
 00:08:53,476 --> 00:08:59,236
 What he was doing was to help building the plumbing for modern hypertext
+அவர் செய்தது, இணையத்தின் தகவல்களை ஒருங்கிணைக்கும் வேலை.
 
 132
 00:08:59,800 --> 00:09:02,705
 and the piece he was working on, RSS
+இணையதள பக்கங்களில் இருந்து முக்கியமான கருத்து சுருக்கங்களை
 
 133
 00:09:02,756 --> 00:09:05,800
 was a tool that you can use to get summaries
+பெற்று தரும் ஒரு கருவியான ஆர் எஸ் எஸ்-இன்
 
 134
 00:09:05,854 --> 00:09:08,269
 of things that are going on on other web pages
-
+அடிப்படைகளை உருவாக்குவதில் ஆரோன் ஸ்வார்ட்ஸ் ஈடு பட்டார் 
+ 
 135
 00:09:08,327 --> 00:09:10,700
 Commonly you would use this for a blog
+சாதாரணமாக இதை வலைப்பதிவுகளில் பயன் படுத்துவார்கள் 
 
 136
 00:09:10,865 --> 00:09:13,883
 You might have 10 or 20 people's blog you wanna read
+நீங்கள் 10-20 நபர்களின் வலைபகுதிகளை காண வேண்டும் என்றால் , 
 
 137
 00:09:13,934 --> 00:09:18,610
 you use the RSS feeds, these summaries of what's going on on those other pages
+ஆர் எஸ் எஸ் இவை அனைத்தையும் 
 
 138
 00:09:18,654 --> 00:09:22,400
 to create a unified list of all the stuff that's going on
+தொகுத்து ஒரே பட்டியலில் கொடுகிறது 
 
 139
 00:09:22,458 --> 00:09:26,000
 Aaron was really young but he understood the technology
+ஆரோன் சிறுவனாய் இருப்பினும், நிறைவற்ற இந்த தொழில்நுட்பத்தின்
 
 140
 00:09:26,050 --> 00:09:29,700
 and he saw that was imperfect and looked for ways to help make it better
+தன்மையை அறிந்து  அதை மென்படுத்தும் முயற்சியில் ஈடுபட்டார் 
 
 141
 00:09:35,500 --> 00:09:39,800
 So his mom bundles[?] him on a plane in Chicago, we pick him up in San Francisco
+தாயார்  அவரை சிக்காகோ - சான் பிரான்சிஸ்கோ  விமானத்தில் 
+ஏற்றிவிட நாங்கள் அவனை விமான நிலையத்தில் வரவேற்று அழைத்து வந்தோம் 
 
 142
 00:09:39,900 --> 00:09:42,720
 we introduced him to interesting people to argue with
+நாம் அவரை சுவாரசியமாக வாதாடும் நபர்களிடம் அறிமுகம் செய்தோம் 
 
 143
 00:09:42,792 --> 00:09:45,229
 and we marvelled at his horrific eating habits
+அவனின் உணவு பழக்கங்களை கண்டு வியந்தோம் 
 
 144
 00:09:45,265 --> 00:09:48,421
-he only eat white food, only like, you know, steamed rice
+he only ate white food, only like, you know, steamed rice
+அவன் வெண்மையான பதார்த்தங்களையே உண்டு வந்தான் ,  
 
 145
 00:09:48,494 --> 00:09:51,250
-and not white rice, beacause that was not sufficiently white,
+and not fried rice, beacause that was not sufficiently white,
+உதாரணமாக வருத்த அருசியை விட்டு வேகவைத்த  அரிசியையும்
 
 146
 00:09:51,294 --> 00:09:53,800
 and white bread, and so on
+வெள்ளை ரொட்டியும்   அதன் வெண்மை காரணமாக விரும்பினான் 
 
 147
 00:09:53,847 --> 00:09:57,927
 and you kind of marvel at the quality of the debate
+இச்சிறுவனின் வாதாடும் திறமையை கண்டு வியந்த நாங்கள்
 
 148
 00:09:57,949 --> 00:10:01,000
 emerging from what appeared to be a small boy's mouth
+இவன் ஸ்கர்வியினால் பாதிக்கப்பட்டு மாண்டு போகாவிட்டால்,
 
 149
 00:10:01,061 --> 00:10:04,600
-and you think, this is a kid, is really going to go somewhere if he doesn't die of scroovy[?]
+and you think, this is a kid, is really going to go somewhere if he doesn't die of scurvy[?]
+மிக சிறந்த மனிதனாக வருவான் என்று நினைத்தோம் 
 
 150
 00:10:04,720 --> 00:10:05,927
 Aaron you're up
+ஆரோன் "நீ பேசலாம் "
 
 151
 00:10:06,887 --> 00:10:10,087
 I think the difference is that now you can't make companies like that per-se
+இணையத்தின் மூலமோ, கைப்பேசி மூலமோ  
 
 152
 00:10:10,140 --> 00:10:12,181
 you can't have companies that just like
+நாய்களுக்கான உணவை விற்பது போல 
 
 153
 00:10:12,218 --> 00:10:15,600
 "let's sell dog food over the Internet, dog food over the cellphones"
+நீங்கள் நினைத்தவுடன் ஒரு நிறுவனத்தை உருவாக்கிவிட முடியாது.
 
 154
 00:10:15,730 --> 00:10:18,080
 but there still lot of innovation going on,
+ஆயினும் நிறைய கண்டுபிடிப்புகள் தொடர்ந்து கொண்டுதான் இருக்கின்றன 
 
 155
 00:10:18,116 --> 00:10:21,214
 I think, if you don't see the innovation maybe your head is in the sand
+புது புது கண்டுபிடிப்புகளை உணராவிட்டால் , தன் தலையை மணலில் புதைத்த அறியாதவனாக  இருகின்றாய் 
 
 156
 00:10:21,556 --> 00:10:25,389
 He takes on this alpha-male personality where he's sort of like
+ஆதிக்க ஆணின் தனித்தன்மையை கொண்ட ஆரோன் 
 
 157
 00:10:25,410 --> 00:10:27,701
 "I'm smarter than you, and because I'm smarter than you
+"நான் உன்னைவிட சாமர்தியமானவன், அதனால் 
 
 158
 00:10:27,723 --> 00:10:29,700
 I'm better than you, and I can tell you what to do"
+நான் உன்னைவிட சிறந்தவன் , எனவே நான் உனக்கு வழிகாட்டலாம் "
 
 159
 00:10:30,007 --> 00:10:34,500
-It's an extension of him being like a kind of torpe[?]
+It's an extension of him being like a kind of twerp
+என கூறுவது சிலருக்கு எரிச்சல் ஊட்டுவதாக இருக்கலாம் 
 
 160
 00:10:35,100 --> 00:10:38,596
 So you aggregate all these computers together and now they're solving big problems
+பல கணினிகளின் திறனை பயன் படுத்தி மிக பெரிய பிரச்சனைகளுக்கு :
 
 161
 00:10:38,625 --> 00:10:42,000
 like searching for aliens or trying to cure cancer
+வேற்று கிரக மனிதர்களை தேடல் , புற்று  நோயை முறியடிக்கும் மருத்துவம் -- இவற்றுக்கு  தீர்வுகாணலாம் 
 
 162
 00:10:45,003 --> 00:10:49,600
 First I met him on IRC, on Internet Relay Chat, he didn't just write code
+நான் முதலில் இவனை ஐ ஆர் சி(IRC)-இல் சந்தித்தேன் , 
 
 163
 00:10:49,650 --> 00:10:55,600
 he also got people excited about solving problems, he was a connector
+அவன், செய்நிரல் எழுதுவதில் மட்டும் அல்ல , பிரச்னைகளுக்கு
+முடிவுக்கான பிறரை ஒருங்கிணைப்பதிலும் மையமாக திகழ்ந்தான் 
 
 164
 00:10:55,658 --> 00:10:58,300
 the free culture movement, which had lot of his energy
+கட்டற்ற கலாச்சார (free culture) இயக்கத்தில் ஈடுபாடு கொண்டான்
 
 165
 00:10:58,356 --> 00:11:03,600
 I think Aaron was trying to make the world work.
 He was trying to fix it
+உலகத்தை மேம்படுத்தவும், சரிசெய்யவும் 
+ஆரோன் மிகுந்த முயற்சி செய்தான் என நினைக்கிறன் 
 
 166
 00:11:03,800 --> 00:11:05,970
 He had a very kind of strong personality,
+அவர் ஒரு திடமான குணாதிசியம் உள்ளவர்.
 
 167
 00:11:06,000 --> 00:11:08,661
 that definetly ruffled[?] feathers at times
+அது சில சமையங்களில் சங்கடங்களை ஏற்படுத்துவதுண்டு
 
 168
 00:11:08,705 --> 00:11:13,500
 and wasn't necessarily the case that he was always confortable in the world
+அவர் இந்த உலகத்தோடு ஒத்துப்போகவில்லை, அல்லது 
 
 169
 00:11:13,556 --> 00:11:16,000
 and the world wasn't confortable with him
+இந்த உலகம் அவரோடு ஒத்துப்போகவில்லை 
 
 170
 00:11:19,287 --> 00:11:23,040
 Aaron got into high school, and was really just sick of school
+ஆரோன் மேல்நிலைப் பள்ளி படிக்கும்போது பள்ளியையே வெறுத்தார்.
 
 171
 00:11:23,100 --> 00:11:25,800
 he didn't like it, he didn't like any of the classes he had been taught
+அவருக்கு அது பிடிக்கவில்லை. அங்கு சொல்லித்தரப்படும் எதுவும் பிடிக்கவில்லை
 
 172
 00:11:25,854 --> 00:11:27,800
 he didn't like the teachers
+அவருக்கு ஆசிரியர்களையும் பிடிக்கவில்லை
 
 173
 00:11:28,167 --> 00:11:30,465
 Aaron really knew how to get information
+ஆனால் எப்படி தகவல்களைப் பெறுவது என்று ஆரோனுக்குத் தெரியும்
 
 174
 00:11:30,501 --> 00:11:34,200
 He was like, I don't need to go to these teachers to know how to do geometry
+"நான் வடிவவியலைக் கற்றுக்கொள்ள ஆசிரியரிடம் செல்லத் தீவில் இல்லை" என்று நினைத்தார் 
 
 175
 00:11:34,320 --> 00:11:36,640
 I can just read the geometry book
+"நான் நேரடியாக வடிவவியல் புத்தகத்தை வாசிப்பேன்"
 
 176
 00:11:36,683 --> 00:11:41,134
 and I don't need to go to the teacher to learn their version of American history
+"நான் ஆசிரியர்கள் சொல்லும் அமெரிக்க வரலாற்றைப் படிக்க மாட்டேன்."
 
 177
 00:11:41,454 --> 00:11:45,800
 I have like three historical compilations here like I can just read them
+"என்னிடமே மூன்று வரலாற்றுத் தொகுப்புகள் உள்ளன. நான் அவற்றை வாசிப்பேன்."
 
 178
 00:11:45,840 --> 00:11:48,800
 and I'm not interested in that, I'm interested in the Web
+"எனக்கு இவற்றில் ஆர்வம் இல்லை. எனக்கு இணையத்தின் மீதே ஆர்வம் உள்ளது"
 
 179
 00:11:49,000 --> 00:11:50,600
 I was very frustrated with school
+நான் பள்ளியின் மீது மிகுந்த வெறுப்புடன் உள்ளேன் 
 
 180
 00:11:50,640 --> 00:11:53,300
 I thought, you know, the teachers didn't know what they were talking about
-
-[position]
+ஆசிரியர்கள் என்ன பேசுகிறார்கள் என்று அவர்களுக்கே தெரியவில்லை என்று நான் நின்னைத்தேன்.
 
 181
 00:11:53,400 --> 00:11:56,700
 they were very domineering and controlling, homework was kind of a sham[?]
+அவர்கள் மிகவும் கட்டுப்படுத்துபவர்களாகவும்,
+அதிகாரம் செலுத்துபவர்களாகவும் இருந்தனர். வீட்டுப் பாடம் ஒரு சுமை
 
 182
 00:11:56,814 --> 00:11:59,585
 I was just like, you know, all the way are penstick[?] together
 
+????????????????????????
 183
 00:11:59,607 --> 00:12:01,440
 and force them to do busy work
-
+முமுரமாக   வேலை செய்ய கட்டாயபடுதினார்கள் 
 184
 00:12:01,701 --> 00:12:05,563
 and, you know, I started reading books about the history of education
-
+கல்வியின் வரலாற்றை பற்றியும் 
 185
 00:12:05,600 --> 00:12:08,312
 and how this educational system was developed
-
+அதன் வளர்ச்சியை பற்றியும் படிக்க ஆரம்பித்தேன்
 186
 00:12:08,378 --> 00:12:12,225
 and, you know, alternative ways to do it[?] people could actually learn things
@@ -752,23 +945,25 @@ and, you know, alternative ways to do it[?] people could actually learn things
 187
 00:12:12,276 --> 00:12:14,700
 instead of just regurgitating facts that the teachers told them
-
+ஆசிரியர்கள் கற்பிப்பதை அப்படியே மனபாடம் செய்து ஒப்பிப்பதற்கு பதிலாக தானே உணர்ந்து கற்றுக்கொள்ள வழிகள் உண்டு 
 188
 00:12:14,900 --> 00:12:17,556
 and that kind of led me down this path of questioning things
-
+இவ்வழி, என்னை கேள்விகளை கேட்க தூண்டியது 
 189
 00:12:17,650 --> 00:12:21,527
 and once I questioned the school I was in, I questioned the society that built the school
+எனது பள்ளியையும் , அதை உருவாக்கிய சமூகத்தையும்..
 
 190
 00:12:21,563 --> 00:12:24,749
 I questioned the businesses that the schools were training people for
-
+மாணவர்களின் பயிற்சியின் நோக்கத்தையும்
 191
 00:12:24,792 --> 00:12:27,818
-I questioned the government that, you know, setup this whole structure
-
+I questioned the government that setup this whole structure
+இதன் அமைப்புக்கு அடிப்படை காரணமாக இருந்த சர்க்காரையும்
+கேள்வி கேட்டேன் 
 192
 00:12:28,021 --> 00:12:30,465
 One of the themes he was more passionate about was copyright,
@@ -776,20 +971,20 @@ One of the themes he was more passionate about was copyright,
 193
 00:12:30,494 --> 00:12:31,760
 especially in those early days
-
+முற்காலங்களில் கடைபிடிக்கப்பட்ட பதிப்புரிமை பற்றி ஆழ்ந்த தீவிரமான கருத்துகள் கொண்டிருந்தார் 
 194
 00:12:31,840 --> 00:12:37,236
 Copyright has always been something overburden on publishing industry and on readers
-
+இது பதிபகத்திற்கும், வாசகர்களுக்கும் சுமையாக இருந்தாலும் -
 195
 00:12:38,181 --> 00:12:41,069
 but it wasn't an excessive burden
-
+மிக பெரிய சுமையாக இல்லை
 196
 00:12:41,100 --> 00:12:46,200
 it was a reasonable institution to have in place
 to make sure that people got paid
-
+உரியவர்களுக்கு  பணம் கிடைப்பதற்க்கு இது ஒரு நியாயமான வழியாக இருந்தது
 197
 00:12:46,254 --> 00:12:50,100
 What Aaron generation experienced was the collision
@@ -797,39 +992,40 @@ What Aaron generation experienced was the collision
 198
 00:12:50,145 --> 00:12:52,800
 between this antique copyright system
-
 199
 00:12:52,930 --> 00:12:56,560
 and this amazing new thing we were trying to build, the Internet and the Web
+Aaron இன் பரம்பரைஇல்
+முற்காலத்தின் பதிப்புரிமைக்கும் தற்போதைய இணையதளத்திற்கும் பொருந்தாமையினால்    மோதல் ஏற்பட்டது 
 
 200
 00:12:56,632 --> 00:13:00,000
 These things collided and what we got was chaos
-
+இந்த மோதலினால்  குழப்பம் உண்டாகியது 
 201
 00:13:02,494 --> 00:13:05,400
 He then met Harward law professot Lawrence Lessig
-
+பதிப்புரிமை சட்டத்தை  உச்ச நீதி 
 202
 00:13:05,476 --> 00:13:08,700
 who was then challenging copyright law in the supreme court
-
+மன்றத்தில் எதிர்த்து போராடிய Lawrence Lessig ஐ Aaron Swartz சந்தித்தார் 
 203
 00:13:08,900 --> 00:13:13,200
 A young Aaron Swartz flew to Washington to listen to the supreme court hearings
-
+உச்ச நீதி மன்றத்தில் இது பற்றிய விவாதங்களை கேட்பதற்காக Aaron Swartz Washington சென்றார்
 204
 00:13:13,287 --> 00:13:17,700
 I'm Aaron Swartz and I'm here to listen to the Eldred ...to see the Eldred argument
-
+Aaron Swartz ஆகிய நான் Eldred வாதங்களை கேட்பதற்காக இங்கு வந்தேன் 
 205
 00:13:18,100 --> 00:13:23,000
 Why did you fly out here from Chicago and come all this way to see the Eldred argument?
-
+Eldred வாதங்களை கேட்பதற்காக Chicago வில் இருந்து ஏன் பயணம் செய்தீர்கள்?
 206
 00:13:23,200 --> 00:13:25,000
 That's a more difficult question
-
+அது கஷ்டமான கேள்விதான் 
 207
 00:13:30,000 --> 00:13:33,700
 I don't know, I'm very excited to see the supreme court
@@ -837,15 +1033,15 @@ I don't know, I'm very excited to see the supreme court
 208
 00:13:33,800 --> 00:13:36,400
 especially in such a prestigious case as this one
-
+இது போன்ற சிறந்த பதிப்புரிமை வாதங்களை உச்ச நீதி மன்றத்தில் கேட்க ஆவலாக உள்ளேன் 
 209
 00:13:42,000 --> 00:13:46,600
 Lessig was also moving forward with a new way to define copyright on the Internet
-
+Lessig இணையதளத்தில் வரையறுக்க ஒரு புது முறையை கையாண்டார்            
 210
 00:13:46,900 --> 00:13:48,800
 it was called Creative Commons
-
+  இதற்கு "Creative Commons " என்று பெயர் 
 211
 00:13:49,200 --> 00:13:51,800
 So the simple idea of Creative Commons is to give people, creators
@@ -857,116 +1053,119 @@ a simple way to mark their creativity
 213
 00:13:56,000 --> 00:13:58,600
 with the freedoms they intended to carry
-
+ எளிமையான இந்த Creative Commons மக்களுக்கு
+தங்கள் படைப்பை  பிறர் எந்த அளவு சுதந்தரமாக பயன் படுத்தலாம் என்பதை உணர்த்தியது 
 214
 00:13:59,000 --> 00:14:01,700
 So copyright is about "all rights reserved"
-
+பதிப்புரிமையின் "எல்லாம் எனதுரிமை " என்பதை விட்டு 
 215
 00:14:01,900 --> 00:14:04,900
-then this is a kind of "some rights reserved" bottle[?]
+then this is a kind of "some rights reserved" model
 
+"சில உரிமைகள் எனக்கு " என்பதற்கு Creative Commons ஒரு உதாரணம் 
 216
 00:14:05,100 --> 00:14:08,400
 It's I want a simple way to say to you "here's what you can do with my work"
-
+இது எளிய முறையில் எனது படைப்புக்களை மற்றவர்கள் என்னவெல்லாம் செய்யலாம் என்பதேயும் ,
 217
 00:14:08,700 --> 00:14:12,800
 even if there are other things which you need to get my permission before you could do
-
+என்னென செய்வதற்கு எனது அனுமதி தேவை என்பதையும் உணர்த்தியது 
 218
 00:14:13,300 --> 00:14:16,400
 And Aaron's role was the computer part
-
+இதில்  Aaron இன் பங்கு கணினியில் 
 219
 00:14:16,600 --> 00:14:18,600
 like how do you architect the licenses
-
+உரிமங்களை பிறர் எளிமையாக அறிந்துகொள்ளும் வண்ணத்திலும்
 220
 00:14:18,800 --> 00:14:23,300
 so that would be simple and understandable and expressed in way that machines could process it
-
+கணினிகள் இவற்றை எளிதாக செயல் படுத்தும் முறைகளை கையாளுவதாகும் 
 221
 00:14:23,600 --> 00:14:26,800
 And people are like, why do you have this fifteen year old kid
-
+ஒரு 15 வயதான சிறுவன் 
 222
 00:14:26,900 --> 00:14:29,000
 writing the specifications of creative commons?
-
+Creative Commons இன் அடிப்படை குறிப்புகளை எழுதுவது 
 223
 00:14:29,400 --> 00:14:31,100
 like, don't you think that's a huge mistake?
-
+பெரிய தவறு என்று மக்கள் கருதினர் 
 224
 00:14:31,200 --> 00:14:34,600
 and larry is like: "the biggest mistake that we would have is not listening to this kid"
-
+இந்த சிறுவனின் கருத்துக்களை கேட்காதது இதை விட மிக பெரிய தவறாகும் என்று Larry கருதினார் 
 225
 00:14:35,700 --> 00:14:39,200
-embarrassing[?] is not even tall enough to get over the podium
-
+Barely he is tall enough to get over the podium
+சொர்பொழிவாற்றுபவர்களின் முன் வைத்திருக்கும் மேஜையை விட ,இச்சிறுவனின் உயரம்  குறைவாக இருப்பதனாலும்,
 226
 00:14:39,400 --> 00:14:41,300
 and it wasn't one of those movable podiums
-
+ மேஜையின் உயரத்தை மாற்ற முடியாததாலும்
 227
 00:14:41,500 --> 00:14:45,600
 so this embarrassing thing that once he put his screen up nobody could see his face
-
+இவன் பேசும்பொழுது மக்களுக்கு இவன் முகம் தெரியவில்லை 
 228
 00:14:45,900 --> 00:14:49,000
 When we come to our website here
-
+இத்தளத்தில் 
 229
 00:14:49,300 --> 00:14:50,500
 and we've got few licences
-
+நமக்கு சில உரிமங்கள் உள்ளன 
 230
 00:14:50,900 --> 00:14:54,600
 it gives you this list of options explaining what it means
-
+இப்பட்டியல் உங்கள் விருப்ப தேர்வுகளை விளக்குகின்றன 
 231
 00:14:54,900 --> 00:14:57,200
 and we thought three set of questions
-
+இதில் மூன்று கேள்விகள் உள்ளன 
 232
 00:14:57,500 --> 00:14:59,600
 Do you want to require attribution?
-
+உங்களுக்கு ஒப்புரிமை தேவையா?
 233
 00:14:59,900 --> 00:15:02,600
 Do you want to allow commercial uses of your work?
-
+உங்கள் படைப்புகளை வியாபார ரீதியாக பயன் படுத்தலாமா ?
 234
 00:15:02,900 --> 00:15:05,700
 Do you want to allow modifications of your work?
-
+உங்கள் படைப்புகளை  மாற்றி அமைக்கலாமா ?
 235
 00:15:05,800 --> 00:15:06,900
 I was floored
 
 236
 00:15:07,400 --> 00:15:11,800
-just completely fiberglassed that these adults regarded him as an adult
-
+just completely flabbergasted that these adults regarded him as an adult
+இச்சிறுவனை ஒரு நிபுணராக மக்கள் கருதுவதை கண்டு நான் திகைத்து நின்றேன் 
 237
 00:15:12,000 --> 00:15:14,800
 Aaron stood up there in front an whole audience full of people
-
+Aaron
 238
 00:15:15,000 --> 00:15:20,000
 and just started talking about the platform that he created for Creative Commons
+பொதுமக்களின் முன்னாள் நின்றுகொண்டு தான் உருவாக்கிய "Creative Commons " தளத்தை பற்றி பேச,
 
 239
 00:15:20,200 --> 00:15:22,800
 And they where all listening to him, just
-
+அனைவரும் அவனை ஆர்வத்துடன் கேட்டனர்
 240
 00:15:23,000 --> 00:15:28,600
 I was sitting AT the back thinking:
 "he's just a kid, why're listening to him?"
-
+பின்னால் அமர்ந்திருந்த நான் "இச்சிறுவன் சொல்வதை எப்படி அனைவரும் இவ்வளவு ஆர்வத்துடன் கேட்கின்றனர் ?" என வியந்தேன் 
 241
 00:15:28,800 --> 00:15:29,700
 but they did
@@ -974,39 +1173,41 @@ but they did
 242
 00:15:29,900 --> 00:15:32,400
 well I don't think I comprehended it fully
-
+எனக்கோ அது முழுவதாக புரியாவிட்டாலும் , அவர்களோ அவனை ஆர்வத்துடன் கேட்டார்கள் 
 243
 00:15:32,600 --> 00:15:37,000
-Though critics have said that it does little to ensure artists get payed for their work
+Though critics have said that it does little to ensure artists get paid for their work
+விமர்சகர்கள்"இத்தளத்தினால் படைப்பவர்களுக்கு பணம் கடைபவது குறைவு" என வாதாடினாலும்
 
 244
 00:15:37,200 --> 00:15:40,000
 the success of Creative Commons has been enourmous
-
+Creative Commons அமோக வெற்றியை பெற்றது 
 245
 00:15:40,200 --> 00:15:46,700
 Currently on the website flickr alone over 200 million people use some form of Creative Commons license
-
+தற்பொழுது இத்தளத்தின் flickr இல் மட்டும் 200 million க்கும் மேலான
+நபர்கள் Creative Commons இன் உரிமங்களை  தன்  படைப்புக்கு பயன் படுத்கின்றனர் 
 246
 00:15:46,800 --> 00:15:51,400
 He contributed through his technical abilities
-
+Aaron தனது தொழில்நுட்ப திறமையை  முழுமையாக பயன் படுத்தினாலும் 
 247
 00:15:51,600 --> 00:15:56,600
 and yet it was not simply a technical matter to him
-
+இதனை வெறும் தொளில்நுட்பமாக அவன் கருதவில்லை 
 248
 00:15:57,600 --> 00:16:00,600
 Aaron Often wrote candidly in his personal blog
-
+Aaron தன் தனிப்பட்ட வலைப்பதிவில் எழுதினான் 
 249
 00:16:01,300 --> 00:16:05,600
 I think deeply about things and I want others to do likewise.
-
+நான் ஆழ்ந்து சிந்திப்பவன் , பிறரும் அப்படியே செய்யவேண்டும் என நினைப்பவன் 
 250
 00:16:06,500 --> 00:16:10,800
 I work for ideas and learn from people. I don’t like excluding people.
-
+நான் சிறந்த கருத்துக்களுக்காக உழைப்பவன் , பிறரிடம் இருந்து கற்றுகொள்ளுபவன் ,பிறரை தவிர்த்து செயல் படுவதில் எனக்கு விருப்பம் இல்லை 
 251
 00:16:11,000 --> 00:16:14,800
 I’m a perfectionist, but I won’t let that get in the way of publication.
