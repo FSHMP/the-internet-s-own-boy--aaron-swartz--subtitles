@@ -1211,82 +1211,100 @@ I work for ideas and learn from people. I don’t like excluding people.
 251
 00:16:11,000 --> 00:16:14,800
 I’m a perfectionist, but I won’t let that get in the way of publication.
+நான் கச்சிதவாதி ஆனால் நான் அது [?]
 
 252
 00:16:15,200 --> 00:16:21,300
 Except for education and entertainment, I’m not going to waste my time on things that won’t have impact.
+கல்வி மற்றும் பொழுது போக்கை தவிர்த்து ,தாக்கமில்லாத விஷயத்தில் நான் என்  நேரத்தை வீனாக்க மாட்டென்
 
 253
 00:16:21,400 --> 00:16:25,800
 I try to be friends with everyone, but I hate it when you don’t take me seriously.
+நான் அனைவரிடமும் நண்பனாக  முயற்சி செய்தேன் ,ஆனால் என்னை தீவிரமாக எடுத்து கொள்ளாத போது வெருப்பு உண்டாகும்.
 
 254
 00:16:26,500 --> 00:16:31,800
 I don’t hold grudges (it’s not productive) but I learn from my experience.
+நான் காழ்ப்புக்கு பிடி கொடுக்கவில்லை ஆனால் நான் என் அனுபவத்திலிருந்து கற்றென்.
 
 255
 00:16:32,200 --> 00:16:36,000
 I want to make the world a better place.
-
+நான் இந்த உலகத்தை சிறந்த இடமாக செய்வேன்.
 256
 00:16:40,700 --> 00:16:45,700
 In 2004 Swartz leaves Highland Park and enrolls in Stanford University
-
+2004யில் Swartz ஹய் லென்டை விடுத்து Stanford Universityயில் சேர்ந்தான்.
 257
 00:16:46,000 --> 00:16:49,800
 He had also diverticolite[?] which was very troubling
-
+அவன் கண்மறைவாக[?]  இது மிகவும் சிக்கலாக இருந்தது.
 258
 00:16:50,000 --> 00:16:51,900
 and we were concerned about him taking his medications.
+மற்றும் நாங்கள் அவன் மருந்துகளை பற்றி கவலைபட்டொம்.
 
 259
 00:16:53,000 --> 00:16:56,200
 He got hospitalized and he would take this cocktail pills everyday
+அவன் மருத்துவிக்கபட்டான் மற்றும் அவன் தன் மாத்திரைகளை தினமும் எடுத்துக்கொண்டான் .
 
 260
 00:16:56,400 --> 00:17:00,200
 and one of these pills was a steroid which dauted his growth and
+மற்றும் அவைகளில் ஒன்று ஸ்டீராவய்டு இது அவன்  வளர்ச்சியை [?].
 
 261
 00:17:00,700 --> 00:17:03,600
 made him feel different from any of the other students
+அது அவனை மற்ற மாணவர்களிடமிருந்து வேறுபடுத்தியது.
 
 262
 00:17:04,000 --> 00:17:06,800
 Aaron, I think, shows up at Stanford ready to scholarship
+Aaron , அவனுக்கு கல்வி உபகாரச் சம்பளம் வழங்க Stanford தயாரானது என்று நான் எண்ணுகின்றேன்.
 
 263
 00:17:07,000 --> 00:17:12,600
 and find himself effectively in a baby sitting program for overachieving high school-ers
+மற்றும் அவனது சாதனைகள் அவனை [?] திறம்பட செய்தது.
 
 264
 00:17:12,800 --> 00:17:21,300
 who in four years meant to become captain of industry and one percent-ers
+யார் நான்கு வருடத்தில் கைத்தொழில் தலைவனாக மற்றும் ஒரு சதவினராக இருந்திருக்க கூடும்.
 
 265
 00:17:21,500 --> 00:17:25,600
 and I think it just made him banana
+மற்றும்  அது அவனை வாழைபழமாக்கியது என்று எண்ணுகின்றேன் .
 
 266
 00:17:25,800 --> 00:17:28,900
 In 2005 after only one year of college
+2005 ஒரு வருட கல்லுரிக்குபின்,
 
 267
 00:17:28,923 --> 00:17:32,210
 Swartz was offered a spot at a new startup incubation firm
+Swartzக்கு புதிய காப்பு நிறுவனத்திலிறுந்து ஸ்பாட் வழங்கப்பட்டது.
 
 268
 00:17:32,312 --> 00:17:36,130
 called Y Combinator led by Paul Graham
+ Y Combinator என்று Paul Graham தலைமையிலாக விளித்தனர்
 
 269
-00:17:36,283 --> 00:17:39,192
+00:17:36,283 --> 00:17:39,192 
 He's like, "hey, I have this idea for a web site"
+அவன் , " ஹெய் , எனக்கு இதைப் பற்றி இணையதளத்துக்கான யோசனை உள்ளது"
+
 
 270
 00:17:39,272 --> 00:17:41,876
 and Paul Graham likes him enough and
+மற்றும் Paul Graham க்கு அவனை மிகவும் பிடித்து
 
 271
 00:17:41,941 --> 00:17:46,174
