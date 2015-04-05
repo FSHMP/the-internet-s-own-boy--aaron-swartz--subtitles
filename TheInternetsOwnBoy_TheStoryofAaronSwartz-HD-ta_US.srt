@@ -1309,14 +1309,16 @@ and Paul Graham likes him enough and
 271
 00:17:41,941 --> 00:17:46,174
 so yeah, sure, so Aaron drops out of school to this apartment
-
+ஆம் அதனால் , அரொன் தன் பள்ளியை விடுத்து அபர்ட்மென்ட் சென்றான்
 272
 00:17:46,247 --> 00:17:48,900
 So this used to be Aaron apartment when he lived here
+அதனால் இது தான் ஆரொனின் அபர்ட்மென்ட் அவன் வாழ்ந்த போது
 
 273
 00:17:48,952 --> 00:17:55,163
 my big memories of my father telling me how difficult it was to get a lease
+
 
 274
 00:17:55,701 --> 00:17:58,400
@@ -1349,42 +1351,53 @@ and Swartz eventually merges his company
 281
 00:18:22,029 --> 00:18:24,581
 with another Y Combinator project in need of help
+மற்றோரு Y combinator ப்ரொஜெச்ட் உதவிக்கு 
 
 282
 00:18:24,800 --> 00:18:29,700
 it was a project led by Steve Huffman and Alexis Ohanian called "reddit"
+அது steve huffman மற்றும் alexis ohanian அவர்களால் "reddit" என்று அழைக்கபட்டது
 
 283
 00:18:29,774 --> 00:18:33,680
 Now we were starting from almost nothing, no users, no money, no code
+இப்போழுது ,எங்களால்  பயனாளிகள் இல்லாமல் , பணம் இல்லாமல் , code இல்லாமல் ஆரம்பிக்கபட்டது
 
 284
 00:18:33,745 --> 00:18:36,800
 and growing day by day into hugely popular website
+மற்றும் அது நாளுக்கு நாள் பிரபலமான இணையதளமாக மாறியது .
 
 285
 00:18:37,200 --> 00:18:38,800
 and it shows no sign of letting up
+மற்றும் அது கவிழ்வதற்கான அறிகுறி ஏதுவும் இல்லை
 
 286
 00:18:38,850 --> 00:18:43,600
 first we had a thousand users, than 10.000, then 20.000 and on and on, it's just incredible
+முதலில் ஆயிரம் பயனாளிகள் ,பின் 10.000 ,பின் 20.000 என தொடற்ந்தது , இது நம்பமுடியாத அளவிற்கு வளர்ந்தது .
 
 287
 00:18:49,025 --> 00:18:49,207
 reddit becomes huge and it's a real sort of geeky corner of the Internet
+reddit பெரியதாக வளர்ந்தது மற்றும் அது மேதாவிகளின் மூலையாக இணையதளத்தில் மாறியது .
+
 
 288
 00:18:51,700 --> 00:18:57,100
 There's a lot of humor, there's a lot of art
+அங்கு நிறைய  நகைச்சுவை ,நிறைய கலை .
 
 289
 00:18:57,300 --> 00:19:01,100
 and there's just people who flocked to the site
+மற்றும் அங்கு நிறைய மக்கள் கூவிந்தனர்.
 
 290
 00:19:01,300 --> 00:19:07,500
 and made that site the main site they go to every morning to get their news.
+மற்றும் அவர்கள் அந்த தலத்தை காலை செய்திக்கான முக்கியமான தலமாக மாற்றினார்கள் .
 
 291
 00:19:07,600 --> 00:19:15,500
